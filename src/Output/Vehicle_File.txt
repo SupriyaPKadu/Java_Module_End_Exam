@@ -1,0 +1,8 @@
+Customer [cust_Id=0, name=supriya]
+Vehicle [vehicle_ID=0, vehicle_type=two wheeler]
+Rental Days: 2
+-------------------------
+Customer [cust_Id=0, name=priya]
+Vehicle [vehicle_ID=0, vehicle_type=four wheeler]
+Rental Days: 1
+-------------------------
